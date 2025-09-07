@@ -1,0 +1,11 @@
+crewai
+crewai-tools
+python-dotenv
+streamlit
+chromadb
+sentence-transformers
+loguru
+requests
+openai
+crewai crewai-tools
+#pip install -U crewai crewai-tools
